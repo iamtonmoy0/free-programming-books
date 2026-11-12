@@ -20,9 +20,9 @@
 ### 0 - Programozási nyelv független
 
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
-* [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
-* [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
-* [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
+* [Adatmodellezés](https://web.archive.org/web/20241007075936/http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF) *( :card_file_box: archived)*
+* [Az adatbázistervezés alapjai és titkai](https://web.archive.org/web/20240911090903/http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF) *( :card_file_box: archived)*
+* [Ember, információ, rendszer](https://web.archive.org/web/20240523085428/http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF) *( :card_file_box: archived)*
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
 * [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, `trl.:` Favorit Fordító Iroda (PDF)
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
@@ -40,7 +40,7 @@
 
 ### C
 
-* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - Brian "Beej Jorgensen" Hall, Hajdu Gábor (HTML) *(:card_file_box: archived)*
+* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - Brian "Beej Jorgensen" Hall, Hajdu Gábor (HTML) *( :card_file_box: archived)*
 
 
 ### <a id="cpp"></a>C++
@@ -70,7 +70,7 @@
 ### Lego Mindstorms
 
 * [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
-* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *(:card_file_box: archived)*
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *( :card_file_box: archived)*
 
 
 ### Lisp
@@ -115,7 +115,7 @@
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) *(:construction: in process)*
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) *( :construction: in process)*
 
 
 ### Windows Phone
