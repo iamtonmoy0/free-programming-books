@@ -5,14 +5,15 @@
 * [C++](#cpp)
 * [Computer Science](#computer-science)
 * [Data Science](#data-science)
-* [Git and Github](#git-and-github)
+* [Git and GitHub](#git-and-github)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
+* [Problem Sets](#problem-sets)
 * [Python](#python)
-* [Sql](#sql)
+* [SQL](#sql)
 * [Web Development](#web-development)
 
 
@@ -36,6 +37,11 @@
 ### Data Science
 
 * [ডাটা সাইন্সের হাতেখড়ি](https://datasinsightsbd.gitbook.io) - Fazle Rabbi Khan (gitbook)
+
+
+### Git and GitHub
+
+* [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
 
 
 ### Go
@@ -83,7 +89,7 @@
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](https://hukush-pakush.com) - Ikram Mahmud (HTML)
 
 
-### Sql
+### SQL
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
@@ -92,8 +98,3 @@
 ### Web Development
 
 * [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
-
-
-### Git and Github
-
-* [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
